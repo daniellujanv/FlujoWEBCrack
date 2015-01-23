@@ -283,7 +283,7 @@ public class MainActivity extends ActionBarActivity {
      *
      * stepThree
      * Segundo REQUEST hacia el AGREGADOR
-     *
+     *b
      */
     public static class stepThree extends AsyncTask<String, Integer, Long>{
         private boolean reqSuccess = false;
